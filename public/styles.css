@@ -1,0 +1,111 @@
+body {
+    background-image: url("images/cool-background.png");
+    background-color: #68b0ab;
+    color: black;
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    font-size: 1.2rem;
+  
+}
+
+h1{
+    margin-top: 0px;
+    margin-bottom: 5px;
+    padding: 2%;
+    font-size: 3rem;
+    line-height: 1.5;
+    font-weight: 900;
+    font-weight: bolder;
+}
+h5{
+    margin-bottom: 50px;
+}
+.word2pdf{
+    font-family: 'Audiowide', cursive;
+    color: #ffd413;
+}
+
+.navbar-text{
+    font-family: 'Audiowide', cursive;
+    font-size: 2.5rem;
+    color: #ffd413;
+    margin-bottom: 1px;
+}
+.container{
+    padding: 3%;
+    position: relative;
+    
+}
+
+
+.down{
+    margin-top: 5px;
+}
+
+
+
+.label, #abc, #def {
+    display: inline-block;
+    background-color: #ffd413;
+    font-family: 'Montserrat', sans-serif;
+    border: rgba(65, 65, 248, 0.815);
+    color: rgb(33, 39, 41);
+    padding: 16px 32px;
+    text-align: center;
+    font-size: 20px;
+    font-weight: bolder;
+    margin: 15px 28px;
+    opacity: 1;
+    transition: 0.3s;
+    text-decoration-style: double;
+    
+  }
+.label:hover{
+    opacity: 90%;
+    font-size: 22px; 
+}
+.btn-light{
+    padding: 4px 6px ;
+    border-color: #2195f300;
+  color: rgba(91, 115, 139, 0.562);
+  font-family: 'Montserrat', sans-serif;
+}
+
+.btn-light:hover{
+    background: #2195f315;
+  color: white;
+}
+
+
+#abc:hover{
+    background: #67717915;
+  color: white;
+  font-size: 22px ;
+}
+
+#def:hover{
+    background: #67717915;
+  color: white;
+  font-size: 22px ;
+}
+
+
+  
+.docimg{
+    width: 20%;
+}
+
+.arrow{
+   
+    width: 20%;
+    padding-bottom: 5%;
+}
+
+.mailingParagraph{
+    margin-bottom: auto;
+    padding: 2%;
+}
+
+.converted{
+    color: #ffd413;
+}
